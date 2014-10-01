@@ -341,7 +341,6 @@ ul + table.navbox {
     margin: 0.5em 0 0.5em 1em;
     padding: 0.2em;
     /* @noflip */
-    float: right;
     /* @noflip */
     clear: right;
     /* @noflip */
